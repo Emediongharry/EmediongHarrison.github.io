@@ -2425,6 +2425,11 @@ input, select, textarea {
 				margin-bottom: 15px;
 			}
 
+
+			.item img{
+				height: 50px;
+			}
+
 		/* Icons */
 
 			ul.icons a {
