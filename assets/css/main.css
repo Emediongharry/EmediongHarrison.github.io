@@ -1789,8 +1789,8 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			width: 60%;
-			margin: 0 5em 2em 8em;
+			max-width: 100%;
+			margin: 0 auto 2em auto;
 		}
 
 		.image.left {
