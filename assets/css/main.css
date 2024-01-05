@@ -1789,7 +1789,7 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			max-width: 100%;
+			width: 60%;
 			margin: 0 auto 2em auto;
 		}
 
@@ -2307,6 +2307,13 @@ input, select, textarea {
 			#main {
 				margin-left: 300px;
 			}
+
+			.image.featured {
+				display: block;
+				max-width: 100%;
+				margin: 0 auto 2em auto;
+			}
+	
 
 	}
 
